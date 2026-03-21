@@ -39,7 +39,9 @@ puts result
 - **Site**: [qrcodefyi.com](https://qrcodefyi.com)
 - **API**: [qrcodefyi.com/api/v1/](https://qrcodefyi.com/api/v1/)
 - **OpenAPI**: [qrcodefyi.com/api/v1/schema/](https://qrcodefyi.com/api/v1/schema/)
-
+- **Glossary**: [qrcodefyi.com/glossary/](https://qrcodefyi.com/glossary/)
+- **Guides**: [qrcodefyi.com/guides/](https://qrcodefyi.com/guides/)
+- **Tools**: [qrcodefyi.com/tools/](https://qrcodefyi.com/tools/)
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
 
 ## Tag FYI Family
